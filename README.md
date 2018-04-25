@@ -1,0 +1,2 @@
+[![Build Status](https://travis-ci.org/max107/EthValidator.svg?branch=master)](https://travis-ci.org/max107/EthValidator)
+[![codecov](https://codecov.io/gh/max107/EthValidator/branch/master/graph/badge.svg)](https://codecov.io/gh/max107/EthValidator)
